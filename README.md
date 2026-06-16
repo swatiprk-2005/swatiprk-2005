@@ -1,78 +1,123 @@
-<h1 align="center">Hi 👋, I'm Swati</h1>
-<h3 align="center">Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  Turning data into insights and ideas into projects 🚀
-</p>
+# Hi 👋 I'm Swati
+
+### 🎓 Computer Science Student | 📊 Aspiring Data Scientist | 🐍 Python Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Building+Projects+Every+Day+🚀" />
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌟 About Me
 
-🎓 Computer Science Student
+🔹 Passionate about Data Science and Machine Learning
 
-📊 Passionate about Data Science & Machine Learning
+🔹 Building projects using Python and Data Analytics
 
-🐍 Working with Python, Pandas, NumPy, and SQL
+🔹 Exploring real-world datasets to gain insights
 
-🌱 Currently learning Machine Learning and Data Visualization
+🔹 Constantly learning and improving problem-solving skills
 
-📌 Building projects to strengthen problem-solving skills
+🔹 Open to collaboration and learning opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python
-- SQL
+<div align="center">
 
-**Libraries**
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+</div>
+
+### 📚 Libraries & Tools
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📈 Loan Approval Prediction
-Machine learning model to predict loan approval based on applicant details.
+Machine Learning model to predict loan approvals based on applicant information.
 
 ### 🏥 Medical Health Prediction
-Data analysis and prediction using healthcare datasets.
+Data analysis and prediction using healthcare datasets and visualization techniques.
 
-### 📊 Data Visualization Dashboard
-Interactive visualizations created with Python and Seaborn.
+### 📊 Data Analysis Dashboard
+Created visual insights using Pandas, Matplotlib, and Seaborn.
 
 ### 🐍 Python OOP Collection
-Object-Oriented Programming concepts and mini-projects.
+Object-Oriented Programming concepts with practical examples and mini-projects.
 
 ---
 
-## 📚 Currently Learning
+## 📈 GitHub Statistics
 
-- Machine Learning Algorithms
-- Feature Engineering
-- Model Evaluation
-- Data Visualization Best Practices
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🌱 Current Learning Journey
+
+```text
+Python               ██████████ 100%
+Pandas               █████████░  90%
+NumPy                ████████░░  80%
+SQL                  ███████░░░  70%
+Machine Learning     ██████░░░░  60%
+```
+
+---
+
+## 🎯 2026 Goals
+
+✅ Build 10+ Data Science Projects
+
+✅ Master Machine Learning Fundamentals
+
+✅ Contribute to Open Source
+
+✅ Strengthen SQL & Data Analysis Skills
+
+✅ Create an impressive Project Portfolio
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 
 📧 Email: your-email@example.com
 
 ---
 
-⭐ *Always learning, building, and improving one project at a time.*
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Learning, Building, and Growing Every Day 🚀"*
+
+</div>
