@@ -10,17 +10,35 @@
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
-🔹 Passionate about Data Science and Machine Learning
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M2c2Y4OHJ4c2QxYWQxNW55N3Q0dXl0aGd6ZmVwaXB1M2NnMTRrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-🔹 Building projects using Python and Data Analytics
+🎓 **Computer Science Student**
 
-🔹 Exploring real-world datasets to gain insights
+📊 Passionate about **Data Science, Analytics & Machine Learning**
 
-🔹 Constantly learning and improving problem-solving skills
+🐍 Building projects using **Python, Pandas, NumPy, Matplotlib & Seaborn**
 
-🔹 Open to collaboration and learning opportunities
+📈 Interested in transforming raw data into meaningful insights
+
+🚀 Currently working on:
+- Loan Approval Prediction
+- Medical Health Prediction
+- Bike Sales Analysis
+- Laptop Price Analysis
+- Customer Satisfaction Analysis
+
+🌱 Learning:
+- Machine Learning
+- SQL
+- Data Visualization
+- Feature Engineering
+
+⚡ Fun Fact:
+> Every dataset tells a story — I love discovering it.
+
+<br clear="right"/>
 
 ---
 
