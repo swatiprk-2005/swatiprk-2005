@@ -165,8 +165,17 @@ Machine Learning     ██████░░░░  60%
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+---
 
-*"Learning, Building, and Growing Every Day 🚀"*
+<div align="center">
+
+### 💻 Happy Coding!
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+⭐ If you like my work, consider giving a star to my repositories!
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+
