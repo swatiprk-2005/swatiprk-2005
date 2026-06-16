@@ -48,13 +48,22 @@
 Machine Learning model to predict loan approvals based on applicant information.
 
 ### 🏥 Medical Health Prediction
-Data analysis and prediction using healthcare datasets and visualization techniques.
+Analyzed healthcare datasets and built predictive models using Python and Machine Learning techniques.
+
+### 🏍️ Bike Sales Data Analysis
+Performed exploratory data analysis on bike sales data to identify customer purchasing patterns, age-group trends, and sales insights using Pandas, Matplotlib, and Seaborn.
+
+### 💻 Laptop Price Analysis
+Analyzed laptop specifications and pricing data to uncover factors affecting laptop prices and market trends through data visualization.
+
+### 😊 Customer Satisfaction Analysis
+Studied customer feedback and satisfaction data to identify key factors influencing customer experience and business performance.
 
 ### 📊 Data Analysis Dashboard
-Created visual insights using Pandas, Matplotlib, and Seaborn.
+Created insightful visualizations and dashboards using Python, Pandas, Matplotlib, and Seaborn.
 
 ### 🐍 Python OOP Collection
-Object-Oriented Programming concepts with practical examples and mini-projects.
+Implemented Object-Oriented Programming concepts through practical examples and mini-projects.
 
 ---
 
@@ -62,9 +71,9 @@ Object-Oriented Programming concepts with practical examples and mini-projects.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=swatiprk-2005&show_icons=true&theme=tokyonight" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatiprk-2005E&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -108,9 +117,9 @@ Machine Learning     ██████░░░░  60%
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/swati-pareek
 
-📧 Email: your-email@example.com
+📧 Email: pareekswati42@.com
 
 ---
 
