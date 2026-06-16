@@ -115,17 +115,49 @@ Machine Learning     ██████░░░░  60%
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/💼_Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/swati-pareek-100a3a365?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+[![GitHub](https://img.shields.io/badge/📂_Explore_My_Projects-181717?style=for-the-badge)](https://github.com/swatiprk-2005)
+
+[![Email](https://img.shields.io/badge/📧_Send_Me_an_Email-EA4335?style=for-the-badge)](mailto:pareekswati42@gmail.com)
 
 
-💼 **LinkedIn**  
-[Connect with Me on LinkedIn](https://www.linkedin.com/in/swati-pareek-100a3a365?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-📂 **GitHub**  
-[Explore My GitHub Projects](https://github.com/swatiprk-2005)
+</div>
 
-📧 **Email**  
-[Send Me an Email](mailto:pareekswati42@gmail.com)
+---
+
+<div align="center">
+
+### 🤝 Open to
+
+📊 Data Analytics Projects • 🤖 Machine Learning Projects • 💻 Python Development • 🚀 Internship Opportunities
+
+</div>
+
+
 
 
 
