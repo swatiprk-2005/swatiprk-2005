@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+📊;Python+Developer+🐍;Machine+Learning+Enthusiast+🤖;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?
 
 <br>
 
