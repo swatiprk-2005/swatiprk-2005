@@ -117,17 +117,15 @@ Machine Learning     ██████░░░░  60%
 
 ## 📫 Connect With Me
 
-🌐 **Portfolio Website**  
-[View My Data Science Portfolio](https://your-portfolio-link.com)
 
 💼 **LinkedIn**  
-[Connect with Me on LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+[Connect with Me on LinkedIn](https://www.linkedin.com/in/swati-pareek-100a3a365?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 📂 **GitHub**  
-[Explore My GitHub Projects](https://github.com/YOUR_USERNAME)
+[Explore My GitHub Projects](https://github.com/swatiprk-2005)
 
 📧 **Email**  
-[Send Me an Email](mailto:your-email@example.com)
+[Send Me an Email](mailto:pareekswati42@gmail.com)
 
 
 
