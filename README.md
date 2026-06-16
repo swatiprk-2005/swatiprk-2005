@@ -12,31 +12,55 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M2c2Y4OHJ4c2QxYWQxNW55N3Q0dXl0aGd6ZmVwaXB1M2NnMTRrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<div align="center">
 
-🎓 **Computer Science Student**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+📊;Python+Developer+🐍;Machine+Learning+Enthusiast+🤖;Always+Learning+🚀" />
 
-📊 Passionate about **Data Science, Analytics & Machine Learning**
+<br>
 
-🐍 Building projects using **Python, Pandas, NumPy, Matplotlib & Seaborn**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-00C853?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6D00?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Data%20Analytics-8E24AA?style=for-the-badge)
 
-📈 Interested in transforming raw data into meaningful insights
+</div>
 
-🚀 Currently working on:
-- Loan Approval Prediction
-- Medical Health Prediction
-- Bike Sales Analysis
-- Laptop Price Analysis
-- Customer Satisfaction Analysis
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🌱 Learning:
-- Machine Learning
-- SQL
-- Data Visualization
-- Feature Engineering
+I am a Computer Science student with a strong interest in Data Science, Data Analytics, and Machine Learning. I enjoy working with data to uncover patterns, generate insights, and solve real-world problems. My journey involves building practical projects using Python and data analysis libraries while continuously expanding my knowledge of machine learning techniques and data visualization. I believe that every dataset has a story to tell, and I am passionate about transforming raw data into meaningful solutions that create value.
 
-⚡ Fun Fact:
-> Every dataset tells a story — I love discovering it.
+### 🎯 What I'm Working On
+
+* 📈 Loan Approval Prediction
+* 🏥 Medical Health Prediction
+* 🏍️ Bike Sales Data Analysis
+* 💻 Laptop Price Analysis
+* 😊 Customer Satisfaction Analysis
+
+### 🌱 Currently Learning
+
+* 🤖 Machine Learning Algorithms
+* 📊 Advanced Data Visualization
+* 🗄️ SQL & Database Management
+* ⚙️ Feature Engineering
+* 📉 Model Evaluation Techniques
+
+### 🚀 Career Goals
+
+* Build impactful Data Science projects
+* Master Machine Learning fundamentals
+* Contribute to Open Source
+* Secure a Data Analyst / Data Science role
+* Continuously learn and improve
+
+### ⚡ Fun Fact
+
+> "Data is the new oil, but insights are the real fuel." 📊✨
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer&reversal=false" width="100%">
+
 
 <br clear="right"/>
 
