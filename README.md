@@ -117,9 +117,19 @@ Machine Learning     ██████░░░░  60%
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/swati-pareek-100a3a365?utm_source=share_via&utm_content=profile&utm_medium=member_android
+🌐 **Portfolio Website**  
+[View My Data Science Portfolio](https://your-portfolio-link.com)
 
-📧 Email: pareekswati42@.com
+💼 **LinkedIn**  
+[Connect with Me on LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+
+📂 **GitHub**  
+[Explore My GitHub Projects](https://github.com/YOUR_USERNAME)
+
+📧 **Email**  
+[Send Me an Email](mailto:your-email@example.com)
+
+
 
 ---
 
