@@ -41,7 +41,6 @@ I am a Computer Science student with a strong interest in Data Science, Data Ana
 
 * 🤖 Machine Learning Algorithms
 * 📊 Advanced Data Visualization
-* 🗄️ SQL & Database Management
 * ⚙️ Feature Engineering
 * 📉 Model Evaluation Techniques
 
