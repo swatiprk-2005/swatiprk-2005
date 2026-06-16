@@ -73,7 +73,7 @@ Implemented Object-Oriented Programming concepts through practical examples and 
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=swatiprk-2005&show_icons=true&theme=tokyonight" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatiprk-2005E&layout=compact&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatiprk-2005&layout=compact&theme=tokyonight" />
 
 </div>
 
