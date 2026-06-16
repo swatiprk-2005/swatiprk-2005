@@ -117,7 +117,7 @@ Machine Learning     ██████░░░░  60%
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/swati-pareek
+💼 LinkedIn: https://www.linkedin.com/in/swati-pareek-100a3a365?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 📧 Email: pareekswati42@.com
 
